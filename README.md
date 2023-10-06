@@ -1,12 +1,13 @@
-# Bem vindo!
-### Olá! Sou o Deniel Carlson 🤙
+# Seja muito bem vindo ao meu perfil! 
 
-## Redes Sociais
+## Olá! Sou o Deniel Carlson 🤙 Gosto de programar, minha linguagem preferida é o Java e além de programar, também gosto de assuntos relacionado as tecnologias da computação 🖥️
+
+## Se quiser dar uma passadinha no meu insta 😏 ou me arrumar um estágio 😉, eis minhas redes sociais abaixo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniel-carlson-4ba22a295/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dniu_carlson/)
 
-## Plaformas de jogos
+## Gosto muito de jogar 🕹️, então eis algumas das plataformas de jogos que utilizo no meu dia a dia
 
 [![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199066506728/)
 [![EPIC](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/pt-BR/u/e2860a8950f149879d2c718d18129bff)
@@ -20,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenielCarlson&layout=donut-vertical)](https://github.com/DenielCarlson/github-readme-stats)
 
-## Tecnologias que uso ou que estou aprendendo
+## Ferramentas que uso ou que estou aprendendo 🛠️
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 [![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](#)
@@ -28,14 +29,11 @@
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
-
-## IDEs que uso
-
 [![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](#)
 [![VISUAL STUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
 [![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 
-## Tecnologias que pretendo apreder
+## Ferramentas que pretendo apreder 🚀
 
 [![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
