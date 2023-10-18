@@ -1,6 +1,6 @@
 # Seja muito bem vindo ao meu perfil! 
 
-## Olá! Sou o Deniel Carlson 🤙 Gosto de programar, minha linguagem preferida é o Java e além de programar, também gosto de assuntos relacionado as tecnologias da computação 🖥️
+## Olá! Sou o Deniel Carlson 🤙 Gosto de programar, minha linguagem preferida é o Java, mas pretendo aprender outras linguagens e ferramentas, algumas para hobbies e outras para agregar na minha capacidade profissional.
 
 ## Se quiser dar uma passadinha no meu insta 😏 ou me arrumar um estágio 😉, eis minhas redes sociais abaixo
 
