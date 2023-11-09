@@ -16,9 +16,8 @@
 [![BATTLENET](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)](#)
 
 ## Status GitHub:
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenielCarlson&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenielCarlson&layout=compact)](https://github.com/DenielCarlson/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenielCarlson&hide_progress=true)
 
 ## Ferramentas que uso ou que estou aprendendo:
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&&color=red&&)](#)
