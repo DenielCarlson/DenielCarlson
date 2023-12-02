@@ -1,4 +1,4 @@
-## Olá, sou o Deniel! fique à vontade para acessar o meu perfil! 😉
+## Olá, sou o Deniel! Fique à vontade para acessar o meu perfil! 😉
 
 ### Minhas redes sociais:
 
